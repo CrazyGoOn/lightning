@@ -1,0 +1,11 @@
+listenhost: 127.0.0.1
+listenport: 9090
+
+servers:
+    - host: 192.168.1.2
+      port: 6379
+      poolsize: 30
+
+    - host: 192.168.1.3
+      port: 6379
+      poolsize: 10
