@@ -1,4 +1,4 @@
 lightning
 =========
 
-a redis proxy implements by golang.
+a redis proxy implements by go.
